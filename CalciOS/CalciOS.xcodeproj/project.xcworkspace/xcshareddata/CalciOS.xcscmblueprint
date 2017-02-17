@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "D9978927F8137B3A620CF1D3BDF5B0E929E344D4",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "BC9897222E114B311244BE40823BE2338100D865" : 0,
+    "D9978927F8137B3A620CF1D3BDF5B0E929E344D4" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "26B28B8C-69AF-4243-86A5-DEABDB269B7D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "BC9897222E114B311244BE40823BE2338100D865" : "",
+    "D9978927F8137B3A620CF1D3BDF5B0E929E344D4" : "CalciOS\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "CalciOS",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "CalciOS.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/MabeleL\/CalciOs.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "BC9897222E114B311244BE40823BE2338100D865"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "ssh:\/\/github.com\/MabeleL\/CalciOs",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D9978927F8137B3A620CF1D3BDF5B0E929E344D4"
+    }
+  ]
+}
